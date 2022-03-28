@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import React from "react";
+import React, { useState } from "react";
 import "./nav.css";
 import {
   AiOutlineHome,
@@ -8,7 +8,6 @@ import {
   AiOutlineMessage,
 } from "react-icons/ai";
 import { RiMacbookLine } from "react-icons/ri";
-import { useState } from "react";
 
 const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");

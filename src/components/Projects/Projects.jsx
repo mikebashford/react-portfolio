@@ -5,6 +5,7 @@ import IMG2 from "../../assets/HoriseonSocialSolutionServices.png";
 import IMG3 from "../../assets/OneStopShop.png";
 import IMG4 from "../../assets/personal-crypto-tracker.png";
 import IMG5 from "../../assets/RunBuddy.png";
+import IMG6 from "../../assets/budget-tracker.png";
 
 const data = [
   {
@@ -41,6 +42,13 @@ const data = [
     title: "Run Buddy",
     github: "https://github.com/mikebashford/run-buddy",
     demo: "https://mikebashford.github.io/run-buddy/",
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: "Budget Tracker",
+    github: "https://github.com/mikebashford/budget-tracker",
+    demo: "https://sheltered-plains-94321.herokuapp.com/",
   },
 ];
 
