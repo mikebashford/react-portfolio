@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1904beae.css",
+    "main.js": "/static/js/main.1105f9f7.js",
+    "static/media/portfoliophoto.jpg": "/static/media/portfoliophoto.0950b21d2fc82087b11c.jpg",
+    "static/media/RunBuddy.png": "/static/media/RunBuddy.bba130ad4f3f1f119768.png",
+    "static/media/OneStopShop.png": "/static/media/OneStopShop.1d7f8a926a763c812a1f.png",
+    "static/media/HoriseonSocialSolutionServices.png": "/static/media/HoriseonSocialSolutionServices.7f685464b9bbe2b1c2a2.png",
+    "static/media/DeadSiege_New_Logo.png": "/static/media/DeadSiege_New_Logo.6a3d6623c8e24ae71c7a.png",
+    "static/media/personal-crypto-tracker.png": "/static/media/personal-crypto-tracker.6b228b8e98ab536d55bf.png",
+    "static/media/budget-tracker.png": "/static/media/budget-tracker.4406acea39100a1be7ea.png",
+    "index.html": "/index.html",
+    "main.1904beae.css.map": "/static/css/main.1904beae.css.map",
+    "main.1105f9f7.js.map": "/static/js/main.1105f9f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1904beae.css",
+    "static/js/main.1105f9f7.js"
+  ]
+}
