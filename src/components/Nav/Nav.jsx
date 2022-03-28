@@ -7,6 +7,7 @@ import {
   AiOutlineProject,
   AiOutlineMessage,
 } from "react-icons/ai";
+import { RiMacbookLine } from "react-icons/ri";
 import { useState } from "react";
 
 const Nav = () => {
@@ -26,6 +27,13 @@ const Nav = () => {
         className={activeNav === "#about" ? "active" : ""}
       >
         <AiOutlineUser />
+      </a>
+      <a
+        href="#experience"
+        onClick={() => setActiveNav("#experience")}
+        className={activeNav === "#experience" ? "active" : ""}
+      >
+        <RiMacbookLine />
       </a>
       <a
         href="#projects"
