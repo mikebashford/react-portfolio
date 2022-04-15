@@ -1,7 +1,7 @@
 import React from "react";
 import "./projects.css";
 import IMG1 from "../../assets/DeadSiege_New_Logo.png";
-import IMG2 from "../../assets/HoriseonSocialSolutionServices.png";
+import IMG2 from "../../assets/group-project.herokuapp.com.png";
 import IMG3 from "../../assets/OneStopShop.png";
 import IMG4 from "../../assets/personal-crypto-tracker.png";
 import IMG5 from "../../assets/RunBuddy.png";
@@ -18,9 +18,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "Horiseon Social Solution Services",
-    github: "https://github.com/mikebashford/horiseon-social-solution-services",
-    demo: "https://mikebashford.github.io/horiseon-social-solution-services/",
+    title: "Parachute Play",
+    github: "https://github.com/jessebubble/parachute-play",
+    demo: "https://jam-group-project.herokuapp.com/",
   },
   {
     id: 3,
