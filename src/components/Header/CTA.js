@@ -4,7 +4,7 @@ function CTA() {
   return (
     <div className="cta">
       <a
-        href="https://drive.google.com/file/d/1IANDYI561oRa4m-sctAE96pLtSZOChzg/view?usp=sharing"
+        href="https://drive.google.com/file/d/1BhqSC7UL0La8ayz2WdQMMRUSyiVqnZ2N/view?usp=sharing"
         className="btn"
       >
         Download CV
