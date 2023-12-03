@@ -20,14 +20,14 @@ const data = [
     image: IMG2,
     title: "Parachute Play",
     github: "https://github.com/jessebubble/parachute-play",
-    demo: "https://jam-group-project.herokuapp.com/",
+    demo: "",
   },
   {
     id: 3,
     image: IMG3,
     title: "One Stop Shop",
     github: "https://github.com/brenhamp/one-stop-shop",
-    demo: "https://group1-one-stop-shop.herokuapp.com/",
+    demo: "",
   },
   {
     id: 4,
@@ -48,7 +48,7 @@ const data = [
     image: IMG6,
     title: "Budget Tracker",
     github: "https://github.com/mikebashford/budget-tracker",
-    demo: "https://sheltered-plains-94321.herokuapp.com/",
+    demo: "",
   },
 ];
 
